@@ -1,0 +1,13 @@
+https://www.sencha.com/blog/how-to-create-react-app-typescript/
+npx create-react-app ts-app --template typescript
+
+cd ts-app
+npm start
+npm run build
+npm install -g serve
+serve -s build
+  
+   npm test
+ npm run eject
+ 
+ dangtureacthellworlds3bucket
